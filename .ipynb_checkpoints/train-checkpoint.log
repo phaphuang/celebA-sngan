@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "train_64.py", line 413, in <module>
+    main()
+  File "train_64.py", line 252, in main
+    transforms.Resize(scale_size),
+NameError: name 'scale_size' is not defined
